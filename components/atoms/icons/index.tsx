@@ -1,0 +1,74 @@
+import {
+  ChevronLeft,
+  Home,
+  Info,
+  MoonStar,
+  Search,
+  Sun,
+  User,
+  Settings,
+  Pencil,
+  MessageCircle,
+  Terminal,
+  AlertTriangle,
+  X,
+  Check,
+  Bell,
+  GraduationCap,
+  Calendar,
+  CurlyBraces,
+  Lightbulb,
+  User2,
+  ChevronsLeftRight,
+  MapPin,
+  BriefcaseBusiness,
+  Users2,
+} from 'lucide-react-native';
+import { iconWithClassName } from './iconWithClassName';
+iconWithClassName(Info);
+iconWithClassName(MoonStar);
+iconWithClassName(Sun);
+iconWithClassName(Home);
+iconWithClassName(Search);
+iconWithClassName(User);
+iconWithClassName(ChevronLeft);
+iconWithClassName(Settings);
+iconWithClassName(Pencil);
+iconWithClassName(MessageCircle);
+iconWithClassName(Terminal);
+iconWithClassName(AlertTriangle);
+iconWithClassName(X);
+iconWithClassName(Check);
+iconWithClassName(Bell);
+iconWithClassName(GraduationCap);
+iconWithClassName(Calendar);
+iconWithClassName(CurlyBraces);
+iconWithClassName(Lightbulb);
+iconWithClassName(Users2);
+iconWithClassName(ChevronsLeftRight);
+iconWithClassName(MapPin);
+iconWithClassName(BriefcaseBusiness);
+export {
+  Info,
+  MoonStar,
+  Sun,
+  Home,
+  Search,
+  User,
+  ChevronLeft,
+  Settings,
+  Pencil,
+  MessageCircle,
+  Terminal,
+  AlertTriangle,
+  X,
+  Check,
+  Bell,
+  GraduationCap,
+  Calendar,
+  Lightbulb,
+  Users2,
+  ChevronsLeftRight,
+  MapPin,
+  BriefcaseBusiness,
+};

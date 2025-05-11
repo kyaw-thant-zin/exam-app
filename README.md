@@ -1,1 +1,2 @@
-# exam-app
+# job_seacher_app
+JOB Searcher App

@@ -1,0 +1,6 @@
+{
+  "aliases": {
+    "components": "components/atoms",
+    "lib": "libs"
+  }
+}
